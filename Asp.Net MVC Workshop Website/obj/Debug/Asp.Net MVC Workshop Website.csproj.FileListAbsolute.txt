@@ -1,0 +1,40 @@
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\csc.exe
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\vbc.exe
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\Asp.Net MVC Workshop Website.dll.config
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\Asp.Net MVC Workshop Website.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\Asp.Net MVC Workshop Website.pdb
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\Antlr3.Runtime.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\Newtonsoft.Json.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.Helpers.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.Mvc.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.Optimization.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.Razor.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.WebPages.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.WebPages.Razor.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\WebGrease.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.Helpers.xml
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.Mvc.xml
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.Optimization.xml
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.Razor.xml
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.WebPages.xml
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\System.Web.WebPages.Razor.xml
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\Antlr3.Runtime.pdb
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\bin\Newtonsoft.Json.xml
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\obj\Debug\Asp.Net MVC Workshop Website.csprojResolveAssemblyReference.cache
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\obj\Debug\Asp.Net MVC Workshop Website.dll
+C:\Users\bbeac_000\Source\Repos\asp-mvc-workshop-website\Asp.Net MVC Workshop Website\obj\Debug\Asp.Net MVC Workshop Website.pdb
